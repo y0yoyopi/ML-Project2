@@ -44,16 +44,16 @@ docker-compose
 
 ### Pasos 
 
-# 1. Clonar el repositorio
+#### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/y0yoyopi/ML-Project2.git
 cd ML-Project2
 ```
-# 2. Construir y ejecutar
+#### 2. Construir y ejecutar
 ```bash
 docker-compose up --build
 ```
-# 3. Abrir en navegador
+#### 3. Abrir en navegador
 ```bash
-#  http://localhost:8888
+http://localhost:8888
 ```
