@@ -3,7 +3,7 @@
 
 > **Curso:** Machine Learning  
 > **Proyecto:** Classification Video  
-> **Herramienta de Animación:** [Manim Community](https://www.manim.community/)
+> **Herramienta de Animación:** [Manim Community](https://www.manim.community/) <br>
 > **Integrantes:** Aaron Rojas; Piero Pilco; Mateo Silva
 
 ## 📖 Descripción del Proyecto
