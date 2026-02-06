@@ -35,22 +35,25 @@ pandas
 scikit-learn
 docker
 docker-compose
-
+```
 ##  Ejecución con Docker (Recomendado)
 
 ### Requisitos Previos
 - [Docker](https://www.docker.com/get-started)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
-### Pasos Rápidos
+### Pasos 
 
-```bash
 # 1. Clonar el repositorio
+```bash
 git clone https://github.com/y0yoyopi/ML-Project2.git
 cd ML-Project2
-
+```
 # 2. Construir y ejecutar
+```bash
 docker-compose up --build
-
+```
 # 3. Abrir en navegador
+```bash
 #  http://localhost:8888
+```
