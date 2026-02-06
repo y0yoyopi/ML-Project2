@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  manim-jupyter:
+    build: .
+    ports:
+      - "8888:8888"      # Jupyter Lab
+      - "6901:6901"      # VNC para visualización (si necesitas)
+    volumes:
+      - ./:/workspace    # Montar el código local
+      - ./media:/workspace/media  # Montar la carpeta media
+    environment:
+      - DISPLAY=${DISPLAY}  # Para visualización gráfica
+      - MANIM_VIDEO_DIR=/workspace/media  # Directorio para videos de Manim
+    working_dir: /workspace
+    tty: true
+    stdin_open: true

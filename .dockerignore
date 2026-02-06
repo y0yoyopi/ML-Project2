@@ -1,0 +1,14 @@
+# .dockerignore
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+media/
+.DS_Store
+.git/
+.github/

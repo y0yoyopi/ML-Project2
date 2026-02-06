@@ -1,0 +1,12 @@
+# Crear .gitignore mínimo
+cat > .gitignore << EOF
+# Entorno virtual
+venv/
+*.venv
+.venv/
+venv-*/
+
+# Python cache
+__pycache__/
+*.pyc
+EOF
