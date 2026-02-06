@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/LENOVO/Desktop/ML-Project2/media/videos/ML-Project2/2160p60/partial_movie_files/Quote/34461856_238861177_223132457.mp4'
+file 'file:C:/Users/LENOVO/Desktop/ML-Project2/media/videos/ML-Project2/2160p60/partial_movie_files/Quote/3166950890_2844360058_3559938111.mp4'
+file 'file:C:/Users/LENOVO/Desktop/ML-Project2/media/videos/ML-Project2/2160p60/partial_movie_files/Quote/3166950890_4150031565_1916605657.mp4'
+file 'file:C:/Users/LENOVO/Desktop/ML-Project2/media/videos/ML-Project2/2160p60/partial_movie_files/Quote/3166950890_4217992463_1912966323.mp4'
+file 'file:C:/Users/LENOVO/Desktop/ML-Project2/media/videos/ML-Project2/2160p60/partial_movie_files/Quote/3166950890_3082921935_158459868.mp4'
